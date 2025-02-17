@@ -1,0 +1,14 @@
+Test Prediction Statistics:
+--------------------------------------------------
+
+Phase Space Error Statistics:
+Maximum phase error: 0.499985575
+Minimum phase error: 0.000063287
+Mean phase error: 0.250704380
+Phase error std: 0.176026166
+
+Timing Statistics:
+Average prediction time: 0.001859 ms
+Maximum prediction time: 0.002318 ms
+Batch processing time: 0.928496 ms
+Total predictions: 9991
